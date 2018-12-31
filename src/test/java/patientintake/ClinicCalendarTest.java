@@ -7,7 +7,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ClinicCalendarShould
+class ClinicCalendarTest
 {
     @Test
     public void testAllowEntryOfAnAppointment()
